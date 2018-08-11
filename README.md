@@ -1,4 +1,5 @@
 # devops-aula02
 # Angelina Jolie
-# Kendra Foster
+# Chapolin Colorado
 # Jason Momoa
+# Homer Simpson
